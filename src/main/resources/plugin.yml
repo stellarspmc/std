@@ -1,0 +1,6 @@
+name: SpaceTD
+version: '${project.version}'
+main: spacemc.spacetd.SpaceTD
+api-version: 1.18
+authors: [ tcfblayz ]
+description: Space Tower Defence (not for release)
